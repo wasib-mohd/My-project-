@@ -7,3 +7,29 @@ body{
     width: 80px;
     background-color: red;
 }
+
+.btn-style{
+    background-color:lightcyan;
+    color: blue;
+    border-radius: 5px;
+}
+.btn-style:hover{
+    color: black;
+    background-color: green;
+    cursor: pointer;
+}
+
+
+.style-button{
+    cursor: pointer;
+
+}
+
+
+.heading-style{
+    color: brown;
+}
+
+
+    
+
